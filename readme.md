@@ -1,5 +1,9 @@
-# Bookings
+# Chemicals
 
-The repository for [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
+This is the repository for my chemicals and orders project
 
+- Built Go version 1.16 
+- Uses the [chi](github.com/go-chi/chi) router 
+- Uses [alex edwards](github.com/alexedwards/scs/v2 ) SCS session managment 
+- Uses [noSurf](https://github.com/justinas/nosurf)
 
